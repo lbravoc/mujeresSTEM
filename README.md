@@ -4,7 +4,7 @@ Una página web informativa moderna y responsiva que presenta los principales in
 
 ## 🎯 Descripción
 
-Esta página web visualiza de manera clara y atractiva los hallazgos del informe "Participación de las mujeres en STEM: Diagnóstico de barreras, causas y buenas prácticas" preparado por Fundación Ingeniosas para Ipsos.
+Esta página web visualiza de manera clara y atractiva los hallazgos del informe "Participación de las mujeres en STEM: Diagnóstico de barreras, causas y buenas prácticas".
 
 ## ✨ Características
 
@@ -128,7 +128,7 @@ El diseño está inspirado en las imágenes originales del informe:
 
 ## 📄 Licencia
 
-Este proyecto está basado en el informe público "Participación de las mujeres en STEM" preparado por Fundación Ingeniosas para Ipsos.
+Este proyecto está basado en el informe público "Participación de las mujeres en STEM".
 
 ## 🤝 Contribuciones
 
@@ -140,9 +140,7 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📞 Contacto
 
-Para consultas sobre el informe original, contactar a Fundación Ingeniosas.
 
 ---
 
