@@ -460,8 +460,7 @@ function App() {
             <div>
               <h3 className="text-xl font-bold mb-4">Sobre este Informe</h3>
               <p className="text-blue-100 text-sm">
-                Informe preparado por Fundación Ingeniosas para Ipsos, 
-                analizando la participación de mujeres en STEM y las buenas prácticas para cerrar brechas.
+                Informe preparado analizando la participación de mujeres en STEM y las buenas prácticas para cerrar brechas.
               </p>
             </div>
             
@@ -488,7 +487,7 @@ function App() {
           </div>
           
           <div className="border-t border-blue-700 mt-8 pt-8 text-center text-sm text-blue-200">
-            <p>© 2025 - Basado en el informe "Participación de las mujeres en STEM" | Fundación Ingeniosas para Ipsos</p>
+            <p>© 2025 - Basado en el informe "Participación de las mujeres en STEM"</p>
           </div>
         </div>
       </footer>
