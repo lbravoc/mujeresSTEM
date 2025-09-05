@@ -487,7 +487,7 @@ function App() {
           </div>
           
           <div className="border-t border-blue-700 mt-8 pt-8 text-center text-sm text-blue-200">
-            <p>© 2025 - Basado en el informe "Participación de las mujeres en STEM"</p>
+            <p>© 2025 - Basado en el informe "Informe N°1 - Contexto comparado y  diagnóstico inicial"</p>
           </div>
         </div>
       </footer>

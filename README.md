@@ -4,7 +4,7 @@ Una página web informativa moderna y responsiva que presenta los principales in
 
 ## 🎯 Descripción
 
-Esta página web visualiza de manera clara y atractiva los hallazgos del informe "Participación de las mujeres en STEM: Diagnóstico de barreras, causas y buenas prácticas".
+Esta página web visualiza de manera clara y atractiva los hallazgos del informe "Informe N°1 - Contexto comparado y  diagnóstico inicial".
 
 ## ✨ Características
 
@@ -128,7 +128,7 @@ El diseño está inspirado en las imágenes originales del informe:
 
 ## 📄 Licencia
 
-Este proyecto está basado en el informe público "Participación de las mujeres en STEM".
+Este proyecto está basado en el informe público "Informe N°1 - Contexto comparado y  diagnóstico inicial".
 
 ## 🤝 Contribuciones
 
