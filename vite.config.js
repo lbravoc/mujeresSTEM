@@ -6,6 +6,9 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
+  base: '/mujeresSTEM/', // 👈 importante
+  // para que el build vaya directo a /docs (lo que usa GitHub Pages)
+  build: { outDir: 'docs' },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
